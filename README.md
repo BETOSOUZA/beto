@@ -1,6 +1,6 @@
 # Olá ! Eu sou Beto 
 <div>
-  <a href="https://github.com/BETOSOUZA/beto">
+  <a href="https://github.com/betosouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BETOSOUZA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETOSOUZA&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -24,5 +24,5 @@
  
  
     
-  ![Snake animation](https://github.com/BETOSOUZA/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/betosouza/github-contribution-grid-snake.svg)
   </div>
