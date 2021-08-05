@@ -24,5 +24,5 @@
  
  
     
-  ![Snake animation](https://github.com/BETOSOUZA/beto/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BETOSOUZA/github-contribution-grid-snake.svg)
   </div>
